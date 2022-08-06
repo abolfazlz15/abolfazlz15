@@ -8,10 +8,10 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/abolfazl-zaker-4778b7240/" target="blank"><img align="center"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit"
-            alt="saeedjeddi" height="30" width="80" /></a>
+            alt="saeedjeddi" height="30" width="100" /></a>
     <a href="https://instagram.com/abolazl_z15" target="blank"><img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="abolazl_z15v" height="30" width="80" /></a>
+            alt="abolazl_z15v" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
