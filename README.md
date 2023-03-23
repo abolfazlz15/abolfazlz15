@@ -1,6 +1,6 @@
 # Hello 👋
 # I am abolfazl zaker
-- i am always learning
+- i always learning
 - i love work in open source project
 
 
