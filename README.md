@@ -1,6 +1,6 @@
 # Hi there! 👋
 # I am abolfazl zaker
-- i always learning
+- i am always learning
 - i love work in open source project
 
 In my career, I have worked on several projects using Django,<br> and I am always looking to learn more and improve my skills.
