@@ -16,4 +16,4 @@ In my career, I have worked on several projects using Django,<br> and I am alway
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=py,js,cs,django,html,css,git,postman,wordpress,nginx,docker" alt="skills actively logos">
+<img src="https://skillicons.dev/icons?i=py,js,cs,django,html,css,git,postman,wordpress,nginx,docker,postgres,mongodb" alt="skills actively logos">
