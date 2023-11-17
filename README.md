@@ -1,19 +1,19 @@
-# Hi there! 👋
-# I am abolfazl zaker
-- i am always learning
-- i love work in open source project
+# Hello, World! 👋
 
-In my career, I have worked on several projects using Django,<br> and I am always looking to learn more and improve my skills.
+I'm Abolfazl Zaker, a passionate Python backend developer specializing in Django, DRF, and FastAPI. 🐍
 
-<p align="center">
-<h3>Connect with me:</h3>
-    
-  <a href="https://www.linkedin.com/in/abolfazl-zaker-4778b7240/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://instagram.com/abolazl_z15">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=py,django,html,css,git,postman,wordpress,nginx,docker,postgres,mongodb" alt="skills actively logos">
+## About Me
+- 💻 Python Backend Developer
+- 🌐 Experienced with Django and DRF
+- ⚡️ Enthusiast for FastAPI
+- 📚 Always eager to learn and explore new technologies
+- 👨‍💻 Dedicated to crafting clean and efficient code
+- 🚀 Love contributing to open source projects
+
+## My Journey
+In my career, I've had the privilege of working on diverse projects, leveraging the power of Django and its REST framework. My love for learning keeps me on the edge, exploring innovative solutions and staying up-to-date with the latest trends in the world of backend development.
+
+## Let's Connect!
+I'm here to collaborate, learn, and grow together. If you share the same passion for Python and backend development, let's connect and make some magic happen! ✨
+
+Feel free to explore my repositories and don't hesitate to reach out. 🚀
