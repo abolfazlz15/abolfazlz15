@@ -17,3 +17,10 @@ In my career, I've had the privilege of working on diverse projects, leveraging 
 I'm here to collaborate, learn, and grow together. If you share the same passion for Python and backend development, let's connect and make some magic happen! ✨
 
 Feel free to explore my repositories and don't hesitate to reach out. 🚀
+<h3>Connect with me:</h3>
+
+  <a href="https://www.linkedin.com/in/abolfazl-zaker-4778b7240/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=py,django,html,css,git,postman,wordpress,nginx,docker,postgres,mongodb" alt="skills actively logos">
