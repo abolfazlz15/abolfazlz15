@@ -1,26 +1,24 @@
-# Hello, World! 👋
+# Hey, I’m Abolfazl Zaker 👋
 
-I'm Abolfazl Zaker, a passionate Python backend developer specializing in Django, DRF, and FastAPI. 🐍
+I'm a backend software engineer passionate about clean architecture, performance, and building maintainable systems.
 
-## About Me
-- 💻 Python Backend Developer
-- 🌐 Experienced with Django and DRF
-- ⚡️ Enthusiast for FastAPI
+## 🧠 What I Do
+- 🔧 Backend development with **Django**, **FastAPI**, and **DRF**
 - 📚 Always eager to learn and explore new technologies
-- 👨‍💻 Dedicated to crafting clean and efficient code
-- 🚀 Love contributing to open source projects
+- 🧱 Advocating for **Clean Architecture** and modular design
+- 🗃️ Working with **PostgreSQL**, **Redis**, **RQ**, and **MinIO (S3)**
+- ⚡️ Enthusiast for **software architecture** like **microservice**
 
-## My Journey
-In my career, I've had the privilege of working on diverse projects, leveraging the power of Django and its REST framework. My love for learning keeps me on the edge, exploring innovative solutions and staying up-to-date with the latest trends in the world of backend development.
+## 🛠️ Tools & Tech
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,rabbitmq,redis,docker,nginx,git,linux,html,css" alt="skills" />
 
-## Let's Connect!
-I'm here to collaborate, learn, and grow together. If you share the same passion for Python and backend development, let's connect and make some magic happen! ✨
+## 📫 Let's Connect
+I love learning from other devs and sharing experiences. If you're into backend, or just want to talk software architecture—hit me up!
 
-Feel free to explore my repositories and don't hesitate to reach out. 🚀
-<h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/abolfazl-zaker-4778b7240/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-  <a href="https://www.linkedin.com/in/abolfazl-zaker-4778b7240/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=py,django,html,css,git,postman,wordpress,nginx,docker,postgres,mongodb" alt="skills actively logos">
+---
+
+Feel free to explore my repos and reach out. Let's build cool stuff together. ⚡
